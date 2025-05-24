@@ -6,7 +6,7 @@ En utilisant la démo de la dernière séance : https://www.youtube.com/watch?v=
 
 # 1. Créer un Web service qui permet de : 
     • Convertir un montant de l’euro en DH
-    ![image](https://github.com/user-attachments/assets/028b56e7-c1fd-413b-a7aa-3831af13a468)
+   ![image](https://github.com/user-attachments/assets/028b56e7-c1fd-413b-a7aa-3831af13a468)
 
     • Consulter un Compte
    ![image](https://github.com/user-attachments/assets/53935108-79f6-41f5-b5e7-a2cf79647d58)
