@@ -4,12 +4,18 @@ Objectif :
  
 En utilisant la démo de la dernière séance : https://www.youtube.com/watch?v=WZi3s2bZNAE
 
-# 1. Créer un Web service qui permet de : • Convertir un montant de l’euro en DH
+# 1. Créer un Web service qui permet de : 
+    • Convertir un montant de l’euro en DH
+    ![image](https://github.com/user-attachments/assets/028b56e7-c1fd-413b-a7aa-3831af13a468)
+
     • Consulter un Compte
    ![image](https://github.com/user-attachments/assets/53935108-79f6-41f5-b5e7-a2cf79647d58)
 
     • Consulter une Liste de comptes
-    
+    ![image](https://github.com/user-attachments/assets/955b4373-3216-4a45-8f7f-d6229338001a)
+    ![image](https://github.com/user-attachments/assets/cf2a0247-f00a-40f9-ad7e-add529ca075e)
+
+
 3. Déployer le Web service avec un simple Serveur JaxWS
    ![image](https://github.com/user-attachments/assets/f2470e1b-803f-4e3f-8706-3c04adfe60d1)
 
