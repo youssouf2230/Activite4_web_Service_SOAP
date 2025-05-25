@@ -18,12 +18,15 @@ En utilisant la démo de la dernière séance : https://www.youtube.com/watch?v=
    ![image](https://github.com/user-attachments/assets/f2470e1b-803f-4e3f-8706-3c04adfe60d1)
 
 5. Consulter et analyser le WSDL avec un Browser HTTP
-   ![image](https://github.com/user-attachments/assets/bb34505a-521b-4484-a2bd-d3c0ad96c023)
+![image](https://github.com/user-attachments/assets/bb34505a-521b-4484-a2bd-d3c0ad96c023)
 
-7. Tester les opérations du web service avec un outil comme SoapUI ou Oxygen
+7. Tester les opérations du web service avec un outil comme SoapUI ou Oxygen.
    ![image](https://github.com/user-attachments/assets/3f2e54bc-7751-4aa7-825b-6994ad4cdac2)
 
 9. Créer un Client SOAP Java
       - Générer le Stub à partir du WSDL
+   ![image](https://github.com/user-attachments/assets/55f9333d-9bc5-464b-a782-ced7db61d3e0)
+
       - Créer un client SOAP pour le web service
-        
+   ![image](https://github.com/user-attachments/assets/b3305f72-fdd7-4eac-8d72-8dd3781d72e9)
+
