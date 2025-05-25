@@ -29,4 +29,5 @@ En utilisant la démo de la dernière séance : https://www.youtube.com/watch?v=
 
       - Créer un client SOAP pour le web service
    ![image](https://github.com/user-attachments/assets/b3305f72-fdd7-4eac-8d72-8dd3781d72e9)
+![image](https://github.com/user-attachments/assets/c2767752-09c6-4bcf-8278-d36d37aab996)
 
