@@ -1,8 +1,29 @@
+
 # Activite4_web_Service_SOAP
-Activité 4
-Objectif :
- 
-En utilisant la démo de la dernière séance : https://www.youtube.com/watch?v=WZi3s2bZNAE
+## Introduction
+    Au cours de cette activité, l'objectif a été de crée un service web SOAP avec JAX-WS en Java, afin d'offrir certaines opérations, notamment la conversion d'euros en Dirhams, la consultation d'un compte, et la récupération de la liste des comptes.
+    Ce service a été déployé sur un simple serveur JAX-WS, puis testé avec des outils comme SoapUI.
+
+## Objectif
+    L'objectif de ce projet consiste donc à :
+    
+    Créer et déployer un service SOAP en Java avec JAX-WS.
+    
+    Consommer ce service depuis une application cliente Java générée automatiquement à partir du WSDL.
+    
+    Tester le service avec SoapUI, afin de s’assurer de son bon fonctionnement.
+
+## But
+    Le but est de :
+    
+    Se familiariser avec le développement de services SOAP en Java.
+    
+    S'entraîner à générer le code client automatiquement à partir d'un WSDL.
+    
+    Découvrir le déploiement d'un service JAX-WS sur un serveur embarqué.
+    
+    S'initier à l'utilisation d'outils de test de services web (comme SoapUI).
+
 
 # 1. Créer un Web service qui permet de : 
     • Convertir un montant de l’euro en DH
@@ -30,4 +51,17 @@ En utilisant la démo de la dernière séance : https://www.youtube.com/watch?v=
       - Créer un client SOAP pour le web service
    ![image](https://github.com/user-attachments/assets/b3305f72-fdd7-4eac-8d72-8dd3781d72e9)
 ![image](https://github.com/user-attachments/assets/c2767752-09c6-4bcf-8278-d36d37aab996)
+
+## Conclusion
+    Au terme de ce projet :
+    
+    Nous avons réussi à implémenter, déployer et tester un service SOAP avec JAX-WS en Java.
+    
+    Nous avons généré le client automatiquement à partir du WSDL afin d'en invoquer les méthodes.
+    
+    Nous avons vérifié le fonctionnement du service avec SoapUI, ce qui garantit que le service est opérationnel et répond aux cas d'utilisation définis.
+    
+    Cette expérience a été l'occasion de se familiariser avec le déploiement de services SOAP, la création de stubs, et le test de services avec des outils spécialisés.
+    
+    
 
